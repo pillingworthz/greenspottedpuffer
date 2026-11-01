@@ -5,10 +5,10 @@ heroCaption: " "
 heroLead: "Indie/Folk band based in Devon, UK"
 heroButtons:
   - label: "About"
-    url: "/about/"
+    url: "about/"
     style: "primary" # "primary" (default) or "outline"
   - label: "News"
-    url: "/posts/"
+    url: "posts/"
     style: "primary" # "primary" (default) or "outline"
 ---
 
