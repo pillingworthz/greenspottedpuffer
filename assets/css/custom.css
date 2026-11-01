@@ -1,7 +1,7 @@
 /** Cormorant fonts for titles */
 @font-face {
     font-family: "Cormorant";
-    src: url("/fonts/Cormorant-Medium.ttf") format("truetype");
+    src: url("../fonts/Cormorant-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
