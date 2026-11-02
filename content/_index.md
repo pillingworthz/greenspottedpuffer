@@ -22,7 +22,7 @@ Wild Fenn are an Indie/Folk band based in Devon, UK. Songwriters Luke Engel and 
 ![Hourglass](place-to-call-home.png)
 
 **Wild Fenn EP Launch Gig @ Cafe Momus, Plymouth**
-*Wednesday, November 25, 7 PM - 10 PM*
+*Wednesday 25 November 2026, 7pm - 10pm*
 
 A full band show to celebrate the release of our second EP, ‘A Place To Call Home’.
 
